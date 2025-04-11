@@ -1,0 +1,14 @@
+flask
+flask-cors
+pydub
+SpeechRecognition
+requests
+easyocr
+opencv-python
+google-generativeai
+numpy
+Pillow
+torch
+openai
+python-dotenv
+tensorflow
